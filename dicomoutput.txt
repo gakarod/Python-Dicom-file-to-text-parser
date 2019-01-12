@@ -1,0 +1,88 @@
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0008) Image Type                          CS: ['', 'SECONDARY', 'INTRAOPERATIVE']
+(0008, 0016) SOP Class UID                       UI: Ultrasound Multi-frame Image Storage
+(0008, 0018) SOP Instance UID                    UI: 2.16.840.1.114488.0.4.123489834087.1330071426.3
+(0008, 0020) Study Date                          DA: '20110824'
+(0008, 0021) Series Date                         DA: '20110824'
+(0008, 0023) Content Date                        DA: '20110824'
+(0008, 0030) Study Time                          TM: '094836.214743984'
+(0008, 0031) Series Time                         TM: '094836.214743984'
+(0008, 0033) Content Time                        TM: '111522.214743816'
+(0008, 0050) Accession Number                    SH: ''
+(0008, 0060) Modality                            CS: 'US'
+(0008, 0070) Manufacturer                        LO: 'Medistim'
+(0008, 0080) Institution Name                    LO: 'Hospital Name'
+(0008, 0081) Institution Address                 ST: 'Hospital Address or Department'
+(0008, 0090) Referring Physician's Name          PN: ''
+(0008, 1010) Station Name                        SH: 'VERIQ'
+(0008, 1030) Study Description                   LO: ''
+(0008, 1050) Performing Physician's Name         PN: 'CA Prof. Debus'
+(0008, 1090) Manufacturer's Model Name           LO: 'VeriQ C'
+(0008, 2144) Recommended Display Frame Rate      IS: "31"
+(0010, 0010) Patient's Name                      PN: 'Femoral trombenarterectomy^Case Report:'
+(0010, 0020) Patient ID                          LO: 'Case Report 1'
+(0010, 0030) Patient's Birth Date                DA: ''
+(0010, 0040) Patient's Sex                       CS: 'M'
+(0010, 1020) Patient's Size                      DS: "0"
+(0010, 1030) Patient's Weight                    DS: "0"
+(0010, 4000) Patient Comments                    LT: 'See case report on www.medistim.com'
+(0018, 0040) Cine Rate                           IS: "31"
+(0018, 0072) Effective Duration                  DS: "1.18271"
+(0018, 1000) Device Serial Number                LO: '0'
+(0018, 1020) Software Version(s)                 LO: '3.3.0 RC0 built 02/23/12  09:50:45'
+(0018, 1063) Frame Time                          DS: "31.9652"
+(0018, 1244) Preferred Playback Sequencing       US: 0
+(0018, 6011)  Sequence of Ultrasound Regions   2 item(s) ---- 
+   (0018, 6012) Region Spatial Format               US: 1
+   (0018, 6014) Region Data Type                    US: 1
+   (0018, 6016) Region Flags                        UL: 2
+   (0018, 6018) Region Location Min X0              UL: 80
+   (0018, 601a) Region Location Min Y0              UL: 28
+   (0018, 601c) Region Location Max X1              UL: 944
+   (0018, 601e) Region Location Max Y1              UL: 568
+   (0018, 6020) Reference Pixel X0                  SL: 512
+   (0018, 6022) Reference Pixel Y0                  SL: 28
+   (0018, 6024) Physical Units X Direction          US: 3
+   (0018, 6026) Physical Units Y Direction          US: 3
+   (0018, 6028) Reference Pixel Physical Value X    FD: 0.0
+   (0018, 602a) Reference Pixel Physical Value Y    FD: 0.0
+   (0018, 602c) Physical Delta X                    FD: 0.002774281461757642
+   (0018, 602e) Physical Delta Y                    FD: 0.002774281461757642
+   ---------
+   (0018, 6012) Region Spatial Format               US: 4
+   (0018, 6014) Region Data Type                    US: 10
+   (0018, 6016) Region Flags                        UL: 2
+   (0018, 6018) Region Location Min X0              UL: 86
+   (0018, 601a) Region Location Min Y0              UL: 645
+   (0018, 601c) Region Location Max X1              UL: 976
+   (0018, 601e) Region Location Max Y1              UL: 762
+   (0018, 6020) Reference Pixel X0                  SL: 86
+   (0018, 6022) Reference Pixel Y0                  SL: 742
+   (0018, 6024) Physical Units X Direction          US: 4
+   (0018, 6026) Physical Units Y Direction          US: 0
+   (0018, 6028) Reference Pixel Physical Value X    FD: 0.0
+   (0018, 602a) Reference Pixel Physical Value Y    FD: 0.0
+   (0018, 602c) Physical Delta X                    FD: 0.0056179775280898875
+   (0018, 602e) Physical Delta Y                    FD: -0.05128205128205128
+   ---------
+(0020, 000d) Study Instance UID                  UI: 2.16.840.1.114488.0.4.123489834087.1330071425.0
+(0020, 000e) Series Instance UID                 UI: 2.16.840.1.114488.0.4.123489834087.1330071425.1
+(0020, 0010) Study ID                            SH: ''
+(0020, 0011) Series Number                       IS: "1"
+(0020, 0013) Instance Number                     IS: "1"
+(0020, 0020) Patient Orientation                 CS: ''
+(0020, 0060) Laterality                          CS: ''
+(0020, 4000) Image Comments                      LT: ''
+(0028, 0002) Samples per Pixel                   US: 3
+(0028, 0004) Photometric Interpretation          CS: 'RGB'
+(0028, 0006) Planar Configuration                US: 0
+(0028, 0008) Number of Frames                    IS: "37"
+(0028, 0009) Frame Increment Pointer             AT: (0018, 1063)
+(0028, 0010) Rows                                US: 768
+(0028, 0011) Columns                             US: 1024
+(0028, 0100) Bits Allocated                      US: 8
+(0028, 0101) Bits Stored                         US: 8
+(0028, 0102) High Bit                            US: 7
+(0028, 0103) Pixel Representation                US: 0
+(0028, 2110) Lossy Image Compression             CS: '00'
+(7fe0, 0010) Pixel Data                          OW: Array of 27472108 bytes
